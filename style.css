@@ -281,8 +281,8 @@ height: 500px;
         height: auto;
         flex-direction: column;
         width: 550px;
-        margin: 0px;
-        padding: 0px;
+        margin: auto;
+        padding: auto;
         text-align: justify;
     }
     .projects{
