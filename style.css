@@ -124,6 +124,8 @@ nav a:hover {
     }
 }
 .menu-button{
+    padding-right: 3px;
+    padding-top: 12px;
     display: block;
 }
 
@@ -271,19 +273,13 @@ height: 500px;
         align-content: center;
         border: 20px;
         padding: auto;
-        margin: auto;
     }
     .Headshot{
         padding-top: 50px;
     }
     .about{
         border: 0px;
-        height: auto;
         flex-direction: column;
-        width: 550px;
-        margin: auto;
-        padding: auto;
-        text-align: justify;
     }
     .projects{
         align-content: center;
