@@ -29,7 +29,7 @@ section {
     display: block;
     align-items: center;
     text-align: center;
-    padding-bottom: 70px;
+    min-height: auto;
 }
 .part{
     padding: 20px;
@@ -286,6 +286,7 @@ height: 500px;
     }
     .myprojects{
   width: 400px;
+        min-height: auto;
 }
     .section{
         align-content: center;
