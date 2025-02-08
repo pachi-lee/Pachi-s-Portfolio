@@ -307,6 +307,9 @@ align-items: center;
     .Headshot{
         padding-top: 50px;
     }
+    .welcometext{
+        align-items:center;
+    }
     .about{
         width: 320px;
         flex-direction: column;
