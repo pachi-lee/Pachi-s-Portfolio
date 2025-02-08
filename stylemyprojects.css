@@ -38,8 +38,8 @@ section {
     align-content: center;
 }
 #image{
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
 }
 
 h1{
@@ -292,18 +292,22 @@ height: 500px;
         padding: auto;
         margin: auto;
     }
-    .myprojects{
-        padding: auto;
-        align-items: center;
-        min-height: auto;
-    }
-    .part{
-align-items: center;
-    }
-    #image{
-        height: 400px;
-        width: 400px;
-    }
+  .myprojects{
+    padding-top: 70px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    min-height: auto;
+    min-width: auto;
+}
+.part{
+    min-width:auto;
+    align-content: center;
+}
+#image{
+    height: 200px;
+    width: 200px;
+}
     .Headshot{
         padding-top: 50px;
     }
