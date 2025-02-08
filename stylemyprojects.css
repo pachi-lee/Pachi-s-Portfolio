@@ -25,6 +25,7 @@ section {
 }
 
 .myprojects{
+    padding-top: 70px;
     display: block;
     align-items: center;
     text-align: center;
@@ -133,9 +134,8 @@ nav a:hover {
     }
 }
 .menu-button{
-    padding-right: 3px;
-    padding-top: 12px;
     display: block;
+    padding-top: 15px;
 }
 
 
@@ -213,9 +213,11 @@ padding: 20px;
     display: flex;
     text-align: center;
     align-content: center;
+    margin: auto;
+    padding: auto;
 }
 .aboutMe{
-    margin: 50px;
+    margin: auto;
 }
 .about::after{
     content: "";
@@ -282,6 +284,7 @@ height: 500px;
         align-content: center;
         border: 20px;
         padding: auto;
+        margin: auto;
     }
     .Headshot{
         padding-top: 50px;
@@ -339,6 +342,9 @@ height: 500px;
     border: 0;
     height: 200px;
     width: 420px;
+}
+.btn--download{
+    padding: auto;
 }
 }
 
