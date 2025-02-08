@@ -29,7 +29,7 @@ section {
     display: block;
     align-items: center;
     text-align: center;
-    height: auto;
+    padding-bottom: 70px;
 }
 .part{
     padding: 20px;
@@ -355,7 +355,7 @@ height: 500px;
     width: 420px;
 }
 .btn--download{
-    padding: auto;
+    padding: 30px;
 }
 }
 
