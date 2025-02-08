@@ -278,6 +278,7 @@ height: 500px;
         padding-top: 50px;
     }
     .about{
+        margin-right: 50px;
         padding: auto;
         width: 300px;
         flex-direction: column;
