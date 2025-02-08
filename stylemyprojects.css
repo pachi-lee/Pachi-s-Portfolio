@@ -30,6 +30,7 @@ section {
     align-items: center;
     text-align: center;
     padding-bottom: 70px;
+    min-height: auto;
 }
 .part{
     padding: 20px;
