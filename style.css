@@ -204,9 +204,11 @@ padding: 20px;
     display: flex;
     text-align: center;
     align-content: center;
+    margin: auto;
+    padding: auto;
 }
 .aboutMe{
-    margin: 50px;
+    margin: auto;
 }
 .about::after{
     content: "";
