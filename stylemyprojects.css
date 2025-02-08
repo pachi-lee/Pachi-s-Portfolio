@@ -30,8 +30,6 @@ section {
     align-items: center;
     text-align: center;
     padding-bottom: 70px;
-    min-height: auto;
-    min-width: auto;
 }
 .part{
     padding: 20px;
@@ -219,7 +217,6 @@ padding: 20px;
     display: flex;
     text-align: center;
     align-content: center;
-    margin: auto;
     padding: auto;
 }
 .aboutMe{
@@ -238,22 +235,27 @@ padding: 20px;
     text-decoration: none;
     color: black;
 margin: auto;
-padding-top: 8%;
+padding-right: 50px;
+padding-left: 50px;
 
  }
+
+
+
 .grid{
     display: flex;
     text-align: center;
     align-content: center;
 }
+
 .box{
     color: black;
    background-color: white;
     font-size: smaller;
     text-align: center;
     align-content: center;
-   width: 33%;
 height: 500px;
+width: 33%;
    border-radius: 10px;
    margin: 40px;
  
@@ -289,22 +291,18 @@ height: 500px;
         padding: auto;
         margin: auto;
     }
-  .myprojects{
-    padding-top: 70px;
-    display: block;
-    align-items: center;
-    text-align: center;
-    min-height: auto;
-    min-width: auto;
-}
-.part{
-    min-width:auto;
-    align-content: center;
-}
-#image{
-    height: 200px;
-    width: 200px;
-}
+    .myprojects{
+        padding: auto;
+        align-items: center;
+        min-height: auto;
+    }
+    .part{
+align-items: center;
+    }
+    #image{
+        height: 400px;
+        width: 400px;
+    }
     .Headshot{
         padding-top: 50px;
     }
