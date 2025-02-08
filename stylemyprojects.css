@@ -35,6 +35,10 @@ section {
     padding: 20px;
     align-content: center;
 }
+#image{
+    height: 500px;
+    width: 500px;
+}
 
 h1{
     font-size: 35px;
@@ -286,15 +290,17 @@ height: 500px;
         padding: auto;
         margin: auto;
     }
-      #image{
+    #image{
         align-items: center;
-        height: 200px;
-        width: 200px;
+        height: 400px;
+        width: 400px;
     }
     .Headshot{
         padding-top: 50px;
     }
     .about{
+        padding-left: 0px;
+        padding-right: 0;
         border: 0px;
         flex-direction: column;
     }
