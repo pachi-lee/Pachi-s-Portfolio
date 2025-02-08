@@ -279,10 +279,8 @@ height: 500px;
     .Headshot{
         padding-top: 50px;
     }
-    .about{
-        min-height: auto;
-        min-width: auto;
-        padding: auto;
+   .about{
+        width: 320px;
         flex-direction: column;
     }
     .aboutMe{
