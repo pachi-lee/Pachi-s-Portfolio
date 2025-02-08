@@ -284,6 +284,9 @@ height: 500px;
     .hideOnMobile{
         display: none;
     }
+    .myprojects{
+  width: 400px;
+}
     .section{
         align-content: center;
         border: 20px;
@@ -299,7 +302,7 @@ height: 500px;
         padding-top: 50px;
     }
      .about{
-        width: 320px;
+        width: 400px;
         flex-direction: column;
     }
     .aboutMe{
