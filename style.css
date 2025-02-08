@@ -278,8 +278,11 @@ height: 500px;
         padding-top: 50px;
     }
     .about{
-        border: 0px;
+        width: 320px;
         flex-direction: column;
+    }
+    .aboutMe{
+        margin: 2px;
     }
     .projects{
         align-content: center;
