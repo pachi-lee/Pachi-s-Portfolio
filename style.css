@@ -135,13 +135,12 @@ nav a:hover {
     
 /*welcome section */
 .welcomepage{
-    background-color: rgb(97, 147, 160);    
-      
+    background-color: rgb(97, 147, 160);   
+      align-items: center;
 }
     .welcometext{
         font-size: 50px;
-        font-style: bold;
-        align-items: center;
+        font-style: bold; 
     }
 
     .hidden {
