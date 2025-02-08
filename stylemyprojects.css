@@ -223,7 +223,7 @@ padding: 20px;
     padding: auto;
 }
 .aboutMe{
-    margin: auto;
+    margin: 20px;
 }
 .about::after{
     content: "";
