@@ -286,6 +286,11 @@ height: 500px;
         padding: auto;
         margin: auto;
     }
+      #image{
+        align-items: center;
+        height: 200px;
+        width: 200px;
+    }
     .Headshot{
         padding-top: 50px;
     }
