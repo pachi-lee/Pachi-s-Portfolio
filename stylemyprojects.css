@@ -29,7 +29,7 @@ section {
     display: block;
     align-items: center;
     text-align: center;
-    min-height: auto;
+    padding-bottom: 70px;
 }
 .part{
     padding: 20px;
@@ -284,26 +284,29 @@ height: 500px;
     .hideOnMobile{
         display: none;
     }
-    .myprojects{
-  width: 400px;
-        min-height: auto;
-}
     .section{
         align-content: center;
         border: 20px;
         padding: auto;
         margin: auto;
     }
-    #image{
+    .myprojects{
+        padding: auto;
         align-items: center;
+        min-height: auto;
+    }
+    .part{
+align-items: center;
+    }
+    #image{
         height: 400px;
         width: 400px;
     }
     .Headshot{
         padding-top: 50px;
     }
-     .about{
-        width: 400px;
+    .about{
+        width: 320px;
         flex-direction: column;
     }
     .aboutMe{
@@ -360,7 +363,8 @@ height: 500px;
     width: 420px;
 }
 .btn--download{
-    padding: 30px;
+    padding: 5px 10px;
+    font-size: 8px;
 }
 }
 
