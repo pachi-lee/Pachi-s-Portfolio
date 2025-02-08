@@ -307,9 +307,6 @@ align-items: center;
     .Headshot{
         padding-top: 50px;
     }
-    .welcometext{
-        align-items:center;
-    }
     .about{
         width: 320px;
         flex-direction: column;
@@ -407,8 +404,8 @@ ul li{
     animation: fade-down 0.5s 0.4s backwards;
 }
 .btn--download{
-    padding: 16px 32px;
-    font-size: 16px;
+    padding: auto;
+    font-size: auto;
     place-content: center;
 }
 
