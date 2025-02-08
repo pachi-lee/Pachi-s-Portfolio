@@ -298,11 +298,12 @@ height: 500px;
     .Headshot{
         padding-top: 50px;
     }
-    .about{
-        padding-left: 0px;
-        padding-right: 0;
-        border: 0px;
+     .about{
+        width: 320px;
         flex-direction: column;
+    }
+    .aboutMe{
+        margin: 2px;
     }
     .projects{
         align-content: center;
