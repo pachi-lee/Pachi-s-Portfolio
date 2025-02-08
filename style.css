@@ -141,6 +141,7 @@ nav a:hover {
     .welcometext{
         font-size: 50px;
         font-style: bold;
+        align-items: center;
     }
 
     .hidden {
