@@ -301,8 +301,8 @@ width: 33%;
 align-items: center;
     }
     #image{
-        height: 400px;
-        width: 400px;
+        height: 200px;
+        width: 200px;
     }
     .Headshot{
         padding-top: 50px;
@@ -365,8 +365,8 @@ align-items: center;
     width: 420px;
 }
 .btn--download{
-    padding: 5px 10px;
-    font-size: 8px;
+    padding: auto;
+    font-size: auto;
 }
 }
 
