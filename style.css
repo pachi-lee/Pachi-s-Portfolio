@@ -270,6 +270,7 @@ height: 500px;
     }
     nav .logo{
     position: absolute; 
+        font-weight: 200;
   }
     .hideOnMobile{
         display: none;
