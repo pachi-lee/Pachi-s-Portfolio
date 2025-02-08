@@ -283,6 +283,9 @@ width: 33%;
     nav{
         background-color: transparent;
     }
+      nav .logo{
+    position: absolute; 
+  }
     .hideOnMobile{
         display: none;
     }
