@@ -278,7 +278,7 @@ height: 500px;
         padding-top: 50px;
     }
     .about{
-        max-width: 320px;
+        max-width: 300px;
         flex-direction: column;
     }
     .aboutMe{
