@@ -285,6 +285,7 @@ width: 33%;
     }
       nav .logo{
     position: absolute; 
+          font-weight: 200;
   }
     .hideOnMobile{
         display: none;
